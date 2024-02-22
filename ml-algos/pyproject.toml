@@ -6,7 +6,10 @@ authors = ["Vipul Maheshwari <vim.code.level@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.9"
+numpy = "^1.26.4"
+matplotlib = "^3.8.3"
+scikit-learn = "^1.4.1.post1"
 
 
 [build-system]
