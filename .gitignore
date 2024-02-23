@@ -1,5 +1,1 @@
-# .gitignore
-__pycache__/
-
-# Virtual Environment
-.env
+venv
