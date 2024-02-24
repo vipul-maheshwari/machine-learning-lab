@@ -77,4 +77,5 @@ if __name__ == '__main__':
     regression_model.train()
     mse = regression_model.calculate_mean_squared_error()
     regression_model.plot_results()
+    print(mse)
 
